@@ -14,7 +14,7 @@ namespace nunit_test.Test
         [Test]
         public void plus_should_work()
         {
-            Assert.That(4 + 2, Is.EqualTo(2));
+            Assert.That(4 + 2, Is.EqualTo(6));
         }
 
         [Test]
