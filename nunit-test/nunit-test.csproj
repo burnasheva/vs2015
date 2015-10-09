@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\AbcTest.cs" />
     <Compile Include="Test\CalcTest.cs" />
+    <Compile Include="Test\MultiplyTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
